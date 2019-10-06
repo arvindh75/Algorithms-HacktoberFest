@@ -12,6 +12,7 @@ Write Algorithm in any language and contribute to HacktoberFest
 - `A` [KMP Algorithm](<C++/KMP(string-matching-algorithm).cpp>)
 - `A` [N-Queen-Problem](C++/N-Queen-Problem.cpp)
 - `A` [Tower-of-Hanoi](C++/Tower-of-Hanoi.cpp)
+- `B` [Memoization](C++/memoization.cpp)
 
 ## JavaScript
 
@@ -37,7 +38,7 @@ Write Algorithm in any language and contribute to HacktoberFest
 
 - `B` [Fibonacci (Recursive)](C/fibonacci_recursive.c)
 - `B` [Commont Element in two Arrays](C/commont_element_in_two_arrays.c)
-- `B` [Selection Sort](C/SelectionSort.c)
+- `B` [Selection Sort](C/SelectionSort.c)     
 
 
 ## Dart
